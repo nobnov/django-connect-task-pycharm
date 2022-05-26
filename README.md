@@ -1,0 +1,1 @@
+# django-connect-task-pycharm
